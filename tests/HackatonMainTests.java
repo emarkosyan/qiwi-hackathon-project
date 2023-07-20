@@ -1,4 +1,4 @@
-import main.CBRParserUtilities;
+import utilities.CBRParserUtilities;
 import main.HackatonMain;
 import org.junit.jupiter.api.Test;
 
