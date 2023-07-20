@@ -15,7 +15,7 @@ USD (Доллар США): 61,2475
 
 1) clone project
 
-`https://github.com/emarkosyan/qiwi-hackathon-project.git`
+`git clone https://github.com/emarkosyan/qiwi-hackathon-project.git`
 
 2) compile
 
